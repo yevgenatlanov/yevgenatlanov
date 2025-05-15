@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://atlanov.me]">Website</a> •
-  <a href="[https://www.linkedin.com/in/yevhenii-atlanov/]">LinkedIn</a> •
-  <a href="[https://github.com/yevgenatlanov]">GitHub</a> •
+  <a href="https://atlanov.me">Website</a> •
+  <a href="https://www.linkedin.com/in/yevhenii-atlanov/">LinkedIn</a> •
+  <a href="https://github.com/yevgenatlanov">GitHub</a> •
   <a href="mailto:[me@atlanov.me]">Email</a>
 </p>
 
