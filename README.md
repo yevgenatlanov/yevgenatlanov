@@ -29,5 +29,5 @@ I am Full-Stack Engineer with 10+ years of experience, specializing in full-cycl
 
 <p align="center">
   <a href="mailto:[me@atlanov.me]">Email</a> •
-    <a href="[https://www.linkedin.com/in/yevhenii-atlanov/]">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/yevhenii-atlanov/">LinkedIn</a>
 </p>
