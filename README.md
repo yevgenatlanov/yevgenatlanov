@@ -2,10 +2,16 @@
 <p align="center"><b>Full Stack Engineer | TypeScript Expert | Web3 Developer | ML Enthusiast</b></p>
 
 <p align="center">
+  <i>Open to collaboration and interesting projects! Feel free to reach out.</i>
+</p>
+
+<p align="center">
   <a href="[https://atlanov.me]">Website</a> •
   <a href="[https://www.linkedin.com/in/yevhenii-atlanov/]">LinkedIn</a> •
-  <a href="[https://github.com/yevgenatlanov]">GitHub</a>
+  <a href="[https://github.com/yevgenatlanov]">GitHub</a> •
+  <a href="mailto:[me@atlanov.me]">Email</a>
 </p>
+
 
 <div align="center">
 
@@ -23,11 +29,3 @@
 
 I am Full-Stack Engineer with 10+ years of experience, specializing in full-cycle development with NodeJS, React.js, and TypeScript. I have a passion for building scalable applications, creating intuitive user interfaces, and exploring emerging technologies in Web3 and Machine Learning.
 
-<p align="center">
-  <i>Open to collaboration and interesting projects! Feel free to reach out.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:[me@atlanov.me]">Email</a> •
-    <a href="https://www.linkedin.com/in/yevhenii-atlanov/">LinkedIn</a>
-</p>
